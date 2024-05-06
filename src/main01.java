@@ -9,7 +9,7 @@ public class main01 {
         }else {
             System.out.println("no");
         }
-
+        System.out.println("the code is complete");
     }
 
 }
